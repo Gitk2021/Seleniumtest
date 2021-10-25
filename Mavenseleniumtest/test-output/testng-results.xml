@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10776" started-at="2021-10-25T04:39:12Z" finished-at="2021-10-25T04:39:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10776" started-at="2021-10-25T04:39:12Z" finished-at="2021-10-25T04:39:23Z">
+      <class name="MAVENintSELtest.Test001">
+        <test-method status="PASS" signature="test1()[pri:0, instance:MAVENintSELtest.Test001@5419f379]" name="test1" duration-ms="10746" started-at="2021-10-25T10:09:12Z" finished-at="2021-10-25T10:09:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- MAVENintSELtest.Test001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
